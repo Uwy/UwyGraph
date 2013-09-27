@@ -1,6 +1,6 @@
 UwyGraph
 ========
-Version Disponible : Alpha-0.3 /!\
+Version Disponible : /!\ Alpha-0.3 /!\
 
 J'attends vos feedback avec impatience.
 
