@@ -24,10 +24,6 @@ Alpha-0.1 :
 https://mega.co.nz/#!chwzXCoa!NyzziirLYX5RsK-zpC6IqjxQ5CVqzOyuYB4RlYr1lDE
 
 Changelog :
- + Fonctionnalité Ajoutée
- # Bug Fix
- * Bug ToFix
- - Fonctionnalité Retirée (MUHAHAHAHAHA)
 
 Alpha-0.3 :
  + Theme choose & edit
