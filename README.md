@@ -9,7 +9,7 @@ What's new :
  - The background is black but it's actually painting on a transparent background
  - Memory perf tweaks
 
-I think it's intuitive enough to note make a full manual, it's in a basic english, all you have to check out is the tracking tab to start tracking the mouse and the the settings to changes the theme (color & shapes).
+I think it's intuitive enough to not make a full manual, it's in a basic english, all you have to check out is the tracking tab to start tracking the mouse and the the settings to changes the theme (color & shapes).
 
 You can also save the picture in a png format (File->Save)
 
