@@ -1,50 +1,18 @@
-UwyGraph
-========
-Version Disponible : /!\ Alpha-0.3 /!\
+English :
+Available version : Alpha-0.3
+Status : Project dropped
 
-J'attends vos feedback avec impatience.
+What's new :
+ - Theme edition et selection (no save
+ - Use hardware acceleration
+ - The background is black but it's actually painting on a transparent background
+ - Memory perf tweaks
 
-Avec en prime : 
-- L'édition et sélections de thèmes.
-- Utilisation de l'accélération graphique (ça vous vous en foutez).
-- Pour des raisons de visibilités la "peinture" se fait sur fond noir mais vous obtiendrez bien une image avec un fond transparent !
-- Optimisation de la mémoire (moins de 200mo en tâche de fond contre 217mo pour l'IOGraph).
+I think it's intuitive enough to note make a full manual, it's in a basic english, all you have to check out is the tracking tab to start tracking the mouse and the the settings to changes the theme (color & shapes).
 
-Je vous laisse découvrir les fonctionnalités de par vous même, c'est RELATIVEMENT intuitif et dans un anglais très basique (regardez dans le menu settings pour l'édition / sélection de thèmes).
+You can also save the picture in a png format (File->Save)
 
-La sauvegarde fonctionne toujours !
-
-Ah et pis, pour commencer, arrêter et remettre à zéro c'est dans le menu Tracking...
-
-"A quoi ça sert ?"
- - Ça fait un dessin a partir des mouvements de votre souris.
-
-"Mais c'est nul !"
- - Ouais mais ça peut donner des trucs jolis, et puis ça se saurait si on faisait des trucs utile avec sur notre ordi.
-
-"OMFG C'est trop contemporain comme art, ceux qui ne comprennent pas sont des moutons."
- - Certes...
-
-"Comment qu'on fait ?"
- - Faut le télécharger via le lien ci-dessous (n'oubliez pas de cocher les termes de services qui vous intéresse FORCEMENT). 
- - Ouvrir le fichier en .jar avec Java (normalement c'est par défaut), pas avec winrar ^^'.
- - Faites des trucs avec votre souris sur votre PC. 
- - Devenez un artiste.
-
-"Ça marche pas !"
- - Il vous faut Java 7.
- - Laissez un commentaire, j'me ferais un plaisir de vous aider !
-
-"Ya des bugs !"
- - Pareil, laissez un commentaire et j'me ferais un plaisir de le corriger.
-
-"Sont où les sources ?"
- - C'est pas pour tout de suite malheureusement.
-
-Les fonctionnalités prévues : 
- - Utiliser/importer des schémas de couleur différents.
- - Des formes différentes pour les pauses de souris.
- - Encore plus d'options
+You can find the binary in this github or with the following links : 
 
 UwyGraph-Alpha-0.3.jar (49 KB)
 https://mega.co.nz/#!kohgACqb!S5Y0Xhd1AxNOhl1eMxtUcBv7z_Y31e4wbjo0Enp576w
@@ -62,18 +30,14 @@ Changelog :
  - Fonctionnalité Retirée (MUHAHAHAHAHA)
 
 Alpha-0.3 :
- + Edition et sélection de thèmes (c'est déjà énorme, si si).
- + Utilise l'accélération graphique.
- * Nouveaux algorythmes de calculs encore en test
- # Gestion de la mémoire un poil plus fine.
+ + Theme choose & edit
+ + Hardware acceleration
+ + Few other color choosing algorythmn (can't find an accurate one)
 
 Alpha-0.2 :
- + Antialiasing activé (GENRE HD ET TOUT).
- + Sauvegarde de l'image.
- + Marche/Arrêt.
- + Des menus et tout pour faire genre c'est pro.
- + Activer/Désactiver les marqueurs de pause de souris.
- + Activer/Désactiver les couleurs en fonction de la vitesse de la souris.
- + Couleurs en fonctions en de ma vitesse de la souris.
- # Zone d'édition maintenant pleinement visible.
- * Couleurs de souris plus variées (sans bouger la souris comme un porc).
+ + Antialiasing, because HD AND ALL
+ + Picture save
+ + On/Off tracking (yes I know)
+ + Menus
+ + Enable/disable mouse stops
+ + Enable/disable automatic color changer 
