@@ -1,6 +1,7 @@
-English :
 Available version : Alpha-0.3
+
 Status : Project dropped
+
 
 What's new :
  - Theme edition et selection (no save
